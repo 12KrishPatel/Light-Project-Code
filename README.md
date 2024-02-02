@@ -1,3 +1,5 @@
 This project was completed as part of Bartlett High School's STEM Magnet Academy. I was tasked with creating a project that showcased the skills I had acquired throughout the courses I took in high school. I chose this project because it allowed me to explore a programming language with which I had minimal prior experience, while also piquing the interest of potential customers.
 
 I presented this product in front of an audience, which included parents of other students and professionals exploring the showcase. This project taught me a great deal about programming and data storage. Halfway through, we had to store the data in the program memory rather than the Arduino memory. Learning how to accomplish this required me to delve into a side of computer science that I had not encountered until then.
+
+A future goal of mine is to create a webiste / application that allows to user to chose a design that will display. I had attemtped this before but did not completely understand how to go about. I wish to create a website using JavaScript / ReactJS that will display the desingns in an organized manner using categories providing the user with a catalog to choose from.
