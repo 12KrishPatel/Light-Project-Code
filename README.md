@@ -1,4 +1,3 @@
-This project was completed as a part of Bartlett High School's STEM magnet academy. I was tasked to create a project that highlighted all of the skills learned throughout the courses
-I took in highschool. I chose this project because it allowed me to explore a language I had worked with minimally beforehand as well as peak the interest of potential customers. I
-presented this product infront of a crowd, some being parents of other students and some being professionals exploring the showcase. This project taught me a lot 
-about programming and data storage as half way through we had to store the data into the 
+This project was completed as part of Bartlett High School's STEM Magnet Academy. I was tasked with creating a project that showcased the skills I had acquired throughout the courses I took in high school. I chose this project because it allowed me to explore a programming language with which I had minimal prior experience, while also piquing the interest of potential customers.
+
+I presented this product in front of an audience, which included parents of other students and professionals exploring the showcase. This project taught me a great deal about programming and data storage. Halfway through, we had to store the data in the program memory rather than the Arduino memory. Learning how to accomplish this required me to delve into a side of computer science that I had not encountered until then.
