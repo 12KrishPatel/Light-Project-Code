@@ -1,0 +1,1103 @@
+{
+  "allMatch": true,
+  "verification": [
+    {
+      "id": "charmander",
+      "fn": "charmander",
+      "layers": [
+        {
+          "array": "charRedLights",
+          "color": "RED",
+          "hex": "#FF0000",
+          "loopCount": 8,
+          "arrayLen": 8,
+          "painted": 8,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "charOrangeLights",
+          "color": "ORANGE",
+          "hex": "#FFA500",
+          "loopCount": 52,
+          "arrayLen": 52,
+          "painted": 52,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "charWhiteLights",
+          "color": "WHITE",
+          "hex": "#FFFFFF",
+          "loopCount": 3,
+          "arrayLen": 3,
+          "painted": 3,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "charGreyLights",
+          "color": "GREY",
+          "hex": "#0F0F0F",
+          "loopCount": 61,
+          "arrayLen": 61,
+          "painted": 61,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "charYellowLights",
+          "color": "YELLOW",
+          "hex": "#FFFF00",
+          "loopCount": 6,
+          "arrayLen": 6,
+          "painted": 6,
+          "extrasInArray": 0,
+          "shortfall": 0
+        }
+      ],
+      "mismatches": []
+    },
+    {
+      "id": "mario",
+      "fn": "mario",
+      "layers": [
+        {
+          "array": "marBlackLeds",
+          "color": "BLACK",
+          "hex": "#0F0F0F",
+          "loopCount": 7,
+          "arrayLen": 7,
+          "painted": 7,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "marYellowLeds",
+          "color": "BLACK",
+          "hex": "#0F0F0F",
+          "loopCount": 2,
+          "arrayLen": 2,
+          "painted": 2,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "marRedLeds",
+          "color": "RED",
+          "hex": "#FF0000",
+          "loopCount": 39,
+          "arrayLen": 39,
+          "painted": 39,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "marBlueLeds",
+          "color": "BLUE",
+          "hex": "#0000FF",
+          "loopCount": 31,
+          "arrayLen": 31,
+          "painted": 31,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "marTanLeds",
+          "color": "TAN",
+          "hex": "#F4A460",
+          "loopCount": 47,
+          "arrayLen": 47,
+          "painted": 47,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "marBrownLeds",
+          "color": "BROWN",
+          "hex": "#180C00",
+          "loopCount": 24,
+          "arrayLen": 24,
+          "painted": 24,
+          "extrasInArray": 0,
+          "shortfall": 0
+        }
+      ],
+      "mismatches": []
+    },
+    {
+      "id": "cool-guy",
+      "fn": "coolGuyEmoji",
+      "layers": [
+        {
+          "array": "coolYellowLeds",
+          "color": "YELLOW",
+          "hex": "#FFFF00",
+          "loopCount": 92,
+          "arrayLen": 92,
+          "painted": 92,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "coolWhiteLeds",
+          "color": "WHITE",
+          "hex": "#FFFFFF",
+          "loopCount": 6,
+          "arrayLen": 6,
+          "painted": 6,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "coolGreyLeds",
+          "color": "GREY",
+          "hex": "#0F0F0F",
+          "loopCount": 79,
+          "arrayLen": 79,
+          "painted": 79,
+          "extrasInArray": 0,
+          "shortfall": 0
+        }
+      ],
+      "mismatches": []
+    },
+    {
+      "id": "superman",
+      "fn": "superMan",
+      "layers": [
+        {
+          "array": "superBlack",
+          "color": "BLACK",
+          "hex": "#0F0F0F",
+          "loopCount": 4,
+          "arrayLen": 4,
+          "painted": 4,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "superYellow",
+          "color": "YELLOW",
+          "hex": "#FFFF00",
+          "loopCount": 2,
+          "arrayLen": 3,
+          "painted": 2,
+          "extrasInArray": 1,
+          "shortfall": 0
+        },
+        {
+          "array": "superRed",
+          "color": "RED",
+          "hex": "#FF0000",
+          "loopCount": 13,
+          "arrayLen": 13,
+          "painted": 13,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "superBlue",
+          "color": "BLUE",
+          "hex": "#0000FF",
+          "loopCount": 36,
+          "arrayLen": 36,
+          "painted": 36,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "superTan",
+          "color": "TAN",
+          "hex": "#F4A460",
+          "loopCount": 8,
+          "arrayLen": 8,
+          "painted": 8,
+          "extrasInArray": 0,
+          "shortfall": 0
+        }
+      ],
+      "mismatches": [
+        {
+          "array": "superYellow",
+          "color": "YELLOW",
+          "hex": "#FFFF00",
+          "loopCount": 2,
+          "arrayLen": 3,
+          "painted": 2,
+          "extrasInArray": 1,
+          "shortfall": 0
+        }
+      ]
+    },
+    {
+      "id": "angry-bird",
+      "fn": "angrybird",
+      "layers": [
+        {
+          "array": "mainRedLights",
+          "color": "DARKRED",
+          "hex": "#800000",
+          "loopCount": 42,
+          "arrayLen": 42,
+          "painted": 42,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "darkRedLights",
+          "color": "MAROON",
+          "hex": "#FF0000",
+          "loopCount": 19,
+          "arrayLen": 19,
+          "painted": 19,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "orangeLights",
+          "color": "ORANGE",
+          "hex": "#FFA500",
+          "loopCount": 9,
+          "arrayLen": 9,
+          "painted": 9,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "whiteLights",
+          "color": "WHITE",
+          "hex": "#FFFFFF",
+          "loopCount": 5,
+          "arrayLen": 5,
+          "painted": 5,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "greyLights",
+          "color": "GREY",
+          "hex": "#0F0F0F",
+          "loopCount": 29,
+          "arrayLen": 29,
+          "painted": 29,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "tanLights",
+          "color": "TAN",
+          "hex": "#F4A460",
+          "loopCount": 7,
+          "arrayLen": 7,
+          "painted": 7,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "blackLights",
+          "color": "NAVY",
+          "hex": "#0F0F0F",
+          "loopCount": 15,
+          "arrayLen": 15,
+          "painted": 15,
+          "extrasInArray": 0,
+          "shortfall": 0
+        }
+      ],
+      "mismatches": []
+    },
+    {
+      "id": "among-us",
+      "fn": "amongUsRed",
+      "layers": [
+        {
+          "array": "amongRed",
+          "color": "MAGENTA",
+          "hex": "#E810E2",
+          "loopCount": 64,
+          "arrayLen": 64,
+          "painted": 64,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "amongBlack",
+          "color": "BLACK",
+          "hex": "#0F0F0F",
+          "loopCount": 53,
+          "arrayLen": 53,
+          "painted": 53,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "amongBlue",
+          "color": "BLUE",
+          "hex": "#0000FF",
+          "loopCount": 5,
+          "arrayLen": 5,
+          "painted": 5,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "amongTeal",
+          "color": "TEAL",
+          "hex": "#4EE3CA",
+          "loopCount": 2,
+          "arrayLen": 2,
+          "painted": 2,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "amongWhite",
+          "color": "WHITE",
+          "hex": "#FFFFFF",
+          "loopCount": 1,
+          "arrayLen": 1,
+          "painted": 1,
+          "extrasInArray": 0,
+          "shortfall": 0
+        }
+      ],
+      "mismatches": []
+    },
+    {
+      "id": "baby",
+      "fn": "baby",
+      "layers": [
+        {
+          "array": "babyTanLeds",
+          "color": "TAN",
+          "hex": "#F4A460",
+          "loopCount": 59,
+          "arrayLen": 59,
+          "painted": 59,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "babyBlackLeds",
+          "color": "GREY",
+          "hex": "#0F0F0F",
+          "loopCount": 60,
+          "arrayLen": 60,
+          "painted": 60,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "babyWhiteLeds",
+          "color": "WHITE",
+          "hex": "#FFFFFF",
+          "loopCount": 2,
+          "arrayLen": 2,
+          "painted": 2,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "babyBlueLeds",
+          "color": "BLUE",
+          "hex": "#0000FF",
+          "loopCount": 6,
+          "arrayLen": 6,
+          "painted": 6,
+          "extrasInArray": 0,
+          "shortfall": 0
+        }
+      ],
+      "mismatches": []
+    },
+    {
+      "id": "beemo",
+      "fn": "beemo",
+      "layers": [
+        {
+          "array": "beemoDarkTealLeds",
+          "color": "DARKTEAL",
+          "hex": "#186A3B",
+          "loopCount": 82,
+          "arrayLen": 82,
+          "painted": 82,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "beemoGreyLeds",
+          "color": "GREY",
+          "hex": "#0F0F0F",
+          "loopCount": 106,
+          "arrayLen": 106,
+          "painted": 106,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "beemoDarkBlueLeds",
+          "color": "DARKBLUE",
+          "hex": "#000080",
+          "loopCount": 1,
+          "arrayLen": 1,
+          "painted": 1,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "beemoWhiteLeds",
+          "color": "WHITE",
+          "hex": "#FFFFFF",
+          "loopCount": 4,
+          "arrayLen": 4,
+          "painted": 4,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "beemoYellowLeds",
+          "color": "YELLOW",
+          "hex": "#FFFF00",
+          "loopCount": 4,
+          "arrayLen": 4,
+          "painted": 4,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "beemoGreenLeds",
+          "color": "GREEN",
+          "hex": "#008000",
+          "loopCount": 1,
+          "arrayLen": 1,
+          "painted": 1,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "beemoRedLeds",
+          "color": "RED",
+          "hex": "#FF0000",
+          "loopCount": 2,
+          "arrayLen": 2,
+          "painted": 2,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "beemoLightBlueLeds",
+          "color": "LIGHTBLUE",
+          "hex": "#66CDAA",
+          "loopCount": 54,
+          "arrayLen": 54,
+          "painted": 54,
+          "extrasInArray": 0,
+          "shortfall": 0
+        }
+      ],
+      "mismatches": []
+    },
+    {
+      "id": "crying-emoji",
+      "fn": "cryingEmoji",
+      "layers": [
+        {
+          "array": "cryYellowLeds",
+          "color": "YELLOW",
+          "hex": "#FFFF00",
+          "loopCount": 128,
+          "arrayLen": 128,
+          "painted": 128,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "cryGreyLeds",
+          "color": "GREY",
+          "hex": "#0F0F0F",
+          "loopCount": 18,
+          "arrayLen": 18,
+          "painted": 18,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "cryWhiteLeds",
+          "color": "WHITE",
+          "hex": "#FFFFFF",
+          "loopCount": 6,
+          "arrayLen": 6,
+          "painted": 6,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "cryBlueLeds",
+          "color": "BLUE",
+          "hex": "#0000FF",
+          "loopCount": 30,
+          "arrayLen": 30,
+          "painted": 30,
+          "extrasInArray": 0,
+          "shortfall": 0
+        }
+      ],
+      "mismatches": []
+    },
+    {
+      "id": "heart",
+      "fn": "heart",
+      "layers": [
+        {
+          "array": "border",
+          "color": "WHITE",
+          "hex": "#FFFFFF",
+          "loopCount": 48,
+          "arrayLen": 48,
+          "painted": 48,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "body",
+          "color": "RED",
+          "hex": "#FF0000",
+          "loopCount": 82,
+          "arrayLen": 82,
+          "painted": 82,
+          "extrasInArray": 0,
+          "shortfall": 0
+        }
+      ],
+      "mismatches": []
+    },
+    {
+      "id": "mike",
+      "fn": "mike",
+      "layers": [
+        {
+          "array": "mikeBlackParts",
+          "color": "GREY",
+          "hex": "#0F0F0F",
+          "loopCount": 39,
+          "arrayLen": 39,
+          "painted": 39,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "mikeEyeOutside",
+          "color": "CRGB::White",
+          "hex": "#FFFFFF",
+          "loopCount": 12,
+          "arrayLen": 12,
+          "painted": 12,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "mikeEyeColor",
+          "color": "CRGB::Black",
+          "hex": "#000000",
+          "loopCount": 1,
+          "arrayLen": 1,
+          "painted": 1,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "mikeBlueParts",
+          "color": "CRGB::Blue",
+          "hex": "#0000FF",
+          "loopCount": 8,
+          "arrayLen": 8,
+          "painted": 8,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "mikeGreenParts",
+          "color": "CRGB::Green",
+          "hex": "#008000",
+          "loopCount": 82,
+          "arrayLen": 82,
+          "painted": 82,
+          "extrasInArray": 0,
+          "shortfall": 0
+        }
+      ],
+      "mismatches": []
+    },
+    {
+      "id": "mushroom",
+      "fn": "mushroom",
+      "layers": [
+        {
+          "array": "toadRedLeds",
+          "color": "RED",
+          "hex": "#FF0000",
+          "loopCount": 74,
+          "arrayLen": 74,
+          "painted": 74,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "toadWhiteLeds",
+          "color": "WHITE",
+          "hex": "#FFFFFF",
+          "loopCount": 42,
+          "arrayLen": 42,
+          "painted": 42,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "roadBlackLeds",
+          "color": "BLACK",
+          "hex": "#0F0F0F",
+          "loopCount": 60,
+          "arrayLen": 60,
+          "painted": 60,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "toadTanLeds",
+          "color": "TAN",
+          "hex": "#F4A460",
+          "loopCount": 32,
+          "arrayLen": 32,
+          "painted": 32,
+          "extrasInArray": 0,
+          "shortfall": 0
+        }
+      ],
+      "mismatches": []
+    },
+    {
+      "id": "watermelon",
+      "fn": "watermelon",
+      "layers": [
+        {
+          "array": "waterForestGreenLeds",
+          "color": "FORESTGREEN",
+          "hex": "#00FF00",
+          "loopCount": 22,
+          "arrayLen": 22,
+          "painted": 22,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "waterLightGreenLeds",
+          "color": "LIGHTGREEN",
+          "hex": "#228B22",
+          "loopCount": 19,
+          "arrayLen": 19,
+          "painted": 19,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "waterRedLeds",
+          "color": "RED",
+          "hex": "#FF0000",
+          "loopCount": 40,
+          "arrayLen": 40,
+          "painted": 40,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "waterPinkLeds",
+          "color": "PINK",
+          "hex": "#EF0BA7",
+          "loopCount": 20,
+          "arrayLen": 20,
+          "painted": 20,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "waterGreyLeds",
+          "color": "GREY",
+          "hex": "#0F0F0F",
+          "loopCount": 4,
+          "arrayLen": 4,
+          "painted": 4,
+          "extrasInArray": 0,
+          "shortfall": 0
+        }
+      ],
+      "mismatches": []
+    },
+    {
+      "id": "steve",
+      "fn": "steve",
+      "layers": [
+        {
+          "array": "steveBrown",
+          "color": "BROWN",
+          "hex": "#180C00",
+          "loopCount": 96,
+          "arrayLen": 96,
+          "painted": 96,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "steveTan",
+          "color": "TAN",
+          "hex": "#F4A460",
+          "loopCount": 136,
+          "arrayLen": 136,
+          "painted": 136,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "steveBlue",
+          "color": "BLUE",
+          "hex": "#0000FF",
+          "loopCount": 8,
+          "arrayLen": 8,
+          "painted": 8,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "steveWhite",
+          "color": "WHITE",
+          "hex": "#FFFFFF",
+          "loopCount": 8,
+          "arrayLen": 8,
+          "painted": 8,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "steveLightBrown",
+          "color": "ORANGE",
+          "hex": "#FFA500",
+          "loopCount": 8,
+          "arrayLen": 8,
+          "painted": 8,
+          "extrasInArray": 0,
+          "shortfall": 0
+        }
+      ],
+      "mismatches": []
+    },
+    {
+      "id": "mudkip",
+      "fn": "mudkip",
+      "layers": [
+        {
+          "array": "mudBlack",
+          "color": "BLACK",
+          "hex": "#0F0F0F",
+          "loopCount": 48,
+          "arrayLen": 47,
+          "painted": 47,
+          "extrasInArray": 0,
+          "shortfall": 1
+        },
+        {
+          "array": "mudLightBlue",
+          "color": "LIGHTBLUE",
+          "hex": "#66CDAA",
+          "loopCount": 48,
+          "arrayLen": 48,
+          "painted": 48,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "mudBlue",
+          "color": "BLUE",
+          "hex": "#0000FF",
+          "loopCount": 18,
+          "arrayLen": 18,
+          "painted": 18,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "mudRed",
+          "color": "RED",
+          "hex": "#FF0000",
+          "loopCount": 12,
+          "arrayLen": 12,
+          "painted": 12,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "mudGrey",
+          "color": "GREY",
+          "hex": "#0F0F0F",
+          "loopCount": 14,
+          "arrayLen": 14,
+          "painted": 14,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "mudWhite",
+          "color": "WHITE",
+          "hex": "#FFFFFF",
+          "loopCount": 2,
+          "arrayLen": 2,
+          "painted": 2,
+          "extrasInArray": 0,
+          "shortfall": 0
+        }
+      ],
+      "mismatches": [
+        {
+          "array": "mudBlack",
+          "color": "BLACK",
+          "hex": "#0F0F0F",
+          "loopCount": 48,
+          "arrayLen": 47,
+          "painted": 47,
+          "extrasInArray": 0,
+          "shortfall": 1
+        }
+      ]
+    },
+    {
+      "id": "strawberry",
+      "fn": "strawberry",
+      "layers": [
+        {
+          "array": "strawGreen",
+          "color": "GREEN",
+          "hex": "#008000",
+          "loopCount": 4,
+          "arrayLen": 4,
+          "painted": 4,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "strawYellowGreen",
+          "color": "YELLOW",
+          "hex": "#FFFF00",
+          "loopCount": 3,
+          "arrayLen": 3,
+          "painted": 3,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "strawBlack",
+          "color": "BLACK",
+          "hex": "#0F0F0F",
+          "loopCount": 44,
+          "arrayLen": 44,
+          "painted": 44,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "strawRed",
+          "color": "RED",
+          "hex": "#FF0000",
+          "loopCount": 15,
+          "arrayLen": 15,
+          "painted": 15,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "strawPink",
+          "color": "PINK",
+          "hex": "#EF0BA7",
+          "loopCount": 58,
+          "arrayLen": 56,
+          "painted": 56,
+          "extrasInArray": 0,
+          "shortfall": 2
+        }
+      ],
+      "mismatches": [
+        {
+          "array": "strawPink",
+          "color": "PINK",
+          "hex": "#EF0BA7",
+          "loopCount": 58,
+          "arrayLen": 56,
+          "painted": 56,
+          "extrasInArray": 0,
+          "shortfall": 2
+        }
+      ]
+    },
+    {
+      "id": "minecraft-cow",
+      "fn": "minecraftCow",
+      "layers": [
+        {
+          "array": "cowBrown",
+          "color": "BROWN",
+          "hex": "#180C00",
+          "loopCount": 104,
+          "arrayLen": 120,
+          "painted": 104,
+          "extrasInArray": 16,
+          "shortfall": 0
+        },
+        {
+          "array": "cowWhite",
+          "color": "WHITE",
+          "hex": "#FFFFFF",
+          "loopCount": 56,
+          "arrayLen": 56,
+          "painted": 56,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "cowGrey",
+          "color": "GREY",
+          "hex": "#0F0F0F",
+          "loopCount": 64,
+          "arrayLen": 64,
+          "painted": 64,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "cowBlack",
+          "color": "BLACK",
+          "hex": "#0F0F0F",
+          "loopCount": 16,
+          "arrayLen": 16,
+          "painted": 16,
+          "extrasInArray": 0,
+          "shortfall": 0
+        }
+      ],
+      "mismatches": [
+        {
+          "array": "cowBrown",
+          "color": "BROWN",
+          "hex": "#180C00",
+          "loopCount": 104,
+          "arrayLen": 120,
+          "painted": 104,
+          "extrasInArray": 16,
+          "shortfall": 0
+        }
+      ]
+    },
+    {
+      "id": "minecraft-pig",
+      "fn": "minecraftPig",
+      "layers": [
+        {
+          "array": "pigPink",
+          "color": "PINK",
+          "hex": "#EF0BA7",
+          "loopCount": 200,
+          "arrayLen": 200,
+          "painted": 200,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "pigMagenta",
+          "color": "MAGENTA",
+          "hex": "#E810E2",
+          "loopCount": 8,
+          "arrayLen": 8,
+          "painted": 8,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "pigLightPink",
+          "color": "LIGHTPINK",
+          "hex": "#EA74D6",
+          "loopCount": 32,
+          "arrayLen": 32,
+          "painted": 32,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "pigBlack",
+          "color": "BLACK",
+          "hex": "#0F0F0F",
+          "loopCount": 8,
+          "arrayLen": 8,
+          "painted": 8,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "pigWhite",
+          "color": "WHITE",
+          "hex": "#FFFFFF",
+          "loopCount": 8,
+          "arrayLen": 8,
+          "painted": 8,
+          "extrasInArray": 0,
+          "shortfall": 0
+        }
+      ],
+      "mismatches": []
+    },
+    {
+      "id": "batman",
+      "fn": "batman",
+      "layers": [
+        {
+          "array": "batBlack",
+          "color": "GREY",
+          "hex": "#0F0F0F",
+          "loopCount": 43,
+          "arrayLen": 43,
+          "painted": 43,
+          "extrasInArray": 0,
+          "shortfall": 0
+        },
+        {
+          "array": "batBlue",
+          "color": "BLUE",
+          "hex": "#0000FF",
+          "loopCount": 143,
+          "arrayLen": 141,
+          "painted": 141,
+          "extrasInArray": 0,
+          "shortfall": 2
+        },
+        {
+          "array": "batYellow",
+          "color": "YELLOW",
+          "hex": "#FFFF00",
+          "loopCount": 75,
+          "arrayLen": 75,
+          "painted": 75,
+          "extrasInArray": 0,
+          "shortfall": 0
+        }
+      ],
+      "mismatches": [
+        {
+          "array": "batBlue",
+          "color": "BLUE",
+          "hex": "#0000FF",
+          "loopCount": 143,
+          "arrayLen": 141,
+          "painted": 141,
+          "extrasInArray": 0,
+          "shortfall": 2
+        }
+      ]
+    }
+  ]
+}

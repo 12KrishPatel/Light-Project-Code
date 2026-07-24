@@ -1,0 +1,49 @@
+:root {
+  --cream: #fff6e9;
+  --paper: #fffdf8;
+  --ink: #1a1a1a;
+  --muted: #4a4a4a;
+  --caption: #8a7c63;
+  --red: #ff5a5f;
+  --red-dark: #e14448;
+  --yellow: #ffc93c;
+  --blue: #3fa9f5;
+  --green: #4ade80;
+  --socket: #f0e4d0;
+  --socket-shadow: #d8c7a8;
+  --font-display: "Baloo 2", sans-serif;
+  --font-body: "Quicksand", sans-serif;
+  --font-mono: "Space Mono", monospace;
+  color: var(--ink);
+  background: var(--cream);
+  font-family: var(--font-body);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  min-height: 100%;
+}
+
+body {
+  background: var(--cream);
+  background-image:
+    radial-gradient(circle at 15% 20%, rgba(255, 201, 60, 0.15), transparent 40%),
+    radial-gradient(circle at 85% 75%, rgba(63, 169, 245, 0.12), transparent 40%);
+  background-attachment: fixed;
+  color: var(--ink);
+}
+
+button,
+input {
+  font: inherit;
+}
